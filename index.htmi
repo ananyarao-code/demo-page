@@ -1,0 +1,123 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction to Artificial Intelligence</title>
+
+    <style>
+        body {
+            background-color: #fff0f0;
+            font-family: "Comic Sans MS", cursive, sans-serif;
+            color: #8b0000;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #b22222;
+            color: white;
+            text-align: center;
+            padding: 35px 20px;
+        }
+
+        header h1 {
+            font-size: 38px;
+            margin: 0;
+        }
+
+        header p {
+            font-size: 21px;
+            margin-top: 12px;
+        }
+
+        main {
+            max-width: 900px;
+            margin: 35px auto;
+            padding: 30px;
+            background-color: white;
+            border: 3px solid #e57373;
+            border-radius: 18px;
+        }
+
+        h2 {
+            color: #b22222;
+            font-size: 28px;
+        }
+
+        main p {
+            font-size: 22px;
+            line-height: 1.9;
+        }
+
+        .highlight {
+            color: #c62828;
+            font-weight: bold;
+        }
+
+        footer {
+            background-color: #b22222;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 17px;
+        }
+
+        @media (max-width: 600px) {
+            header h1 {
+                font-size: 30px;
+            }
+
+            main {
+                margin: 15px;
+                padding: 20px;
+            }
+
+            main p {
+                font-size: 20px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Introduction to Artificial Intelligence</h1>
+        <p>Discovering the technology shaping our future!</p>
+    </header>
+
+    <main>
+        <h2>About This Course</h2>
+
+        <p>
+            Introduction to Artificial Intelligence is a trimester course
+            in which students discover what artificial intelligence (AI) is,
+            how it is currently used, and how it could be used in the future.
+            Students will learn about machine learning, deep learning, and
+            neural networks and how these technologies already influence
+            decisions in everyday life. They will explore the history of AI,
+            its current applications, and its many possible uses in the future
+            while considering the questions and concerns surrounding this
+            growing technology. Through hands-on activities, students will
+            experiment with different AI applications and try basic programming
+            of an artificially intelligent system.
+        </p>
+
+        <h2>What Will We Learn?</h2>
+
+        <p>
+            Students will explore how AI works, experiment with AI tools,
+            discover real-world applications, and learn how artificial
+            intelligence could shape the future. They will also discuss
+            the benefits, limitations, and responsible use of AI.
+        </p>
+    </main>
+
+    <footer>
+        Introduction to Artificial Intelligence | Learning About the Future
+    </footer>
+
+</body>
+</html>
